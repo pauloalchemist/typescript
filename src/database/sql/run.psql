@@ -1,0 +1,4 @@
+begin;
+  \i product.sql
+  \i user.sql
+commit;
