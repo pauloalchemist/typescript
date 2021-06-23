@@ -10,6 +10,6 @@ class User {
       this.id = randomUUID()
     }
   }
-} 
+}
 
 export { User }
